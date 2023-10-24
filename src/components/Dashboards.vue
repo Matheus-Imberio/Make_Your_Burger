@@ -85,7 +85,7 @@ import Message from './Message'
             });
             const res = await req.json();
             this.msg = `O Pedido N° ${res.id} foi atualizado para ${res.status}!`;
-            setTimeout(() => this.msg = "", 4000);
+            setTimeout(() => this.msg = "", 5000);
         }
     },
     mounted() {

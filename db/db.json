@@ -141,17 +141,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": "LEONARDO GUSTAVO BARBOSA",
-      "carne": null,
-      "pao": "Pão Francês",
-      "opcionais": [
-        "Bacon",
-        "Pepino"
-      ],
-      "status": "Finalizado",
-      "id": 1
-    }
-  ]
+  "burgers": []
 }
